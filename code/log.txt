@@ -1,0 +1,252 @@
+Working on http://www.google.co.jp
+Working on http://www.google.com.br
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+Working on http://www.mail.ru
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+Working on http://www.paypal.com
+Working on http://www.microsoft.com
+Working on http://www.xvideos.com
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+Working on http://www.google.com.hk
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+Working on http://www.ask.com
+Working on http://www.weibo.com
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+Working on http://www.blogger.com
+Working on http://www.instagram.com
+TypeError: 'undefined' is not a function (evaluating 'this.require.bind(this)')
+
+  http://d36xtkk24g8jdx.cloudfront.net/bluebar/4930ff3/cache/bundles/__runtime.js:1 in CommonJSEvaluator
+  http://d36xtkk24g8jdx.cloudfront.net/bluebar/4930ff3/cache/bundles/__runtime.js:1 in init
+  http://instagram.com/:162
+Working on http://www.google.ru
+Working on http://www.craigslist.org
+Working on http://www.imdb.com
+Working on http://www.google.it
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+Working on http://www.apple.com
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+TypeError: 'undefined' is not an object (evaluating 'Prototype.K')
+
+  http://images.apple.com/global/scripts/lib/scriptaculous.js:220
+TypeError: 'undefined' is not a function (evaluating 'Object.extend')
+
+  http://images.apple.com/global/scripts/apple_core.js:9
+TypeError: 'undefined' is not a function (evaluating 'Event.onDOMReady')
+
+  http://images.apple.com/global/scripts/search_decorator.js:1
+TypeError: 'undefined' is not a function (evaluating 'Event.onDOMReady')
+
+  http://images.apple.com/global/scripts/feedstatistics.js:63
+TypeError: 'undefined' is not an object (evaluating 'Class.create')
+
+  http://images.apple.com/global/scripts/promomanager.js:1
+TypeError: 'undefined' is not a constructor (evaluating 'new AC.PromoManager('homepage-bts-09-2013-promo1', 'promo1')')
+
+  http://www.apple.com/:200
+  http://images.apple.com/global/ac_base/ac_base.js:1
+Working on http://www.tmall.com
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+Working on http://www.google.es
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+Working on http://www.sohu.com
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+TypeError: 'undefined' is not a function (evaluating 'window.location.href.getQueryString("ip")')
+
+  http://www.sohu.com/:135
+ReferenceError: Can't find variable: AdLoc
+
+  http://www.sohu.com/:372
+ReferenceError: Can't find variable: AdLoc
+
+  http://www.sohu.com/:713
+ReferenceError: Can't find variable: AdLoc
+
+  http://www.sohu.com/:836
+TypeError: 'undefined' is not a function (evaluating 'window.location.href.getQueryString("ip")')
+
+  http://www.sohu.com/:3128
+TypeError: 'undefined' is not a function (evaluating 'window.location.href.getQueryString("ip")')
+
+  http://www.sohu.com/:3174
+TypeError: 'undefined' is not an object (evaluating 'navigator.plugins["Shockwave Flash"].description')
+
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+TypeError: 'undefined' is not an object (evaluating 'navigator.plugins["Shockwave Flash"].description')
+
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+TypeError: 'undefined' is not an object (evaluating 'navigator.plugins["Shockwave Flash"].description')
+
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+TypeError: 'undefined' is not an object (evaluating 'g.indexOf')
+
+  http://www.sohu.com/:3520
+  http://www.sohu.com/:3523
+  http://www.sohu.com/:3546
+TypeError: 'undefined' is not an object (evaluating 'navigator.plugins["Shockwave Flash"].description')
+
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+TypeError: 'undefined' is not an object (evaluating 'navigator.plugins["Shockwave Flash"].description')
+
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://www.sohu.com/:5021
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+  http://images.sohu.com/bill/s2013/gates/08141307/passion_min.js:24
+TypeError: 'null' is not an object (evaluating '[/MSIE (\d)\.0/i.exec(navigator.userAgent)][0][1]')
+
+  http://images.sohu.com/bill/s2012/gates/all/adm2013.js:1
+Working on http://www.bbc.co.uk
+Working on http://www.soso.com
+Working on http://www.xhamster.com
+Working on http://www.360.cn
+Working on http://www.360.cn
+Working on http://www.fc2.com
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+Working on http://www.stackoverflow.com
+FAIL to load the address
+Working on http://www.stackoverflow.com
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].startReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:48
+TypeError: 'undefined' is not an object (evaluating 'page.resources[res.id].endReply = res')
+
+  C:/Research/ResearchTools/phantomjs-1.9.1-windows/kris/CORP-Headers/httpTrans.js:51
+ReferenceError: Can't find variable: $
+
+  http://cdn.sstatic.net/js/stub.js?v=95a78b02de98:13
+ReferenceError: Can't find variable: $
+
+  http://cdn.sstatic.net/js/stub.js?v=95a78b02de98:9
+  http://stackoverflow.com/:20
+TypeError: 'undefined' is not a function (evaluating 'StackExchange.using("gps", function() {
+             StackExchange.gps.init(true);
+        })')
+
+  http://stackoverflow.com/:27
+TypeError: 'undefined' is not a function (evaluating 'StackExchange.ready')
+
+  http://stackoverflow.com/:37
+ReferenceError: Can't find variable: $
+
+  http://stackoverflow.com/:128
+TypeError: 'undefined' is not a function (evaluating 'StackExchange.using("gps", function () {
+            StackExchange.gps.track("hero.show", { hero_type: "hero" }, true);
+        })')
+
+  http://stackoverflow.com/:161
+TypeError: 'undefined' is not a function (evaluating 'StackExchange.ready')
+
+  http://stackoverflow.com/:3074
